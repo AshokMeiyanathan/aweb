@@ -1,9 +1,5 @@
 <html>
 <body>
-<<<<<<< HEAD
-<h2>Hello World!A</h2>
-=======
-<h2>Hello World!U</h2>
->>>>>>> branch 'master' of https://github.com/AshokMeiyanathan/aweb.git
+<h2>Hello World!AA</h2>
 </body>
 </html>
